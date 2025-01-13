@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on ocean-atmosphere investigation
+🔭 I’m currently working on ocean-atmosphere research
 
 🌱 I’m currently learning Deep Learning 
 
