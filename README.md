@@ -29,36 +29,24 @@ Passionate oceanographer specializing in **ocean-atmosphere interactions** and *
 ---
 
 ### 🏆 **Highlighted Achievements**  
-- **2024 IPN Best Thesis Award** ($3,000 USD) - *Spatiotemporal analysis of Baja California upwelling centers*  
-- **CONAHCYT Scholarship** ($20,000 USD) - Graduate studies in Marine Resources Management  
-- **4+ Peer-Reviewed Publications** in Q1 journals ([JMSE](https://doi.org/10.3390/jmse12071061), [Climate Dynamics](https://doi.org/10.1007/s00382-024-XXXXX))  
-- **5 International Conference Presentations** - SENALMAR, Our Planet Our Future, etc.  
+- **2024 IPN Best Thesis Award** - *Spatiotemporal analysis of Baja California upwelling centers*  
+- **CONAHCYT Scholarship** - Graduate studies in Marine Resources Management  
+- **4+ Peer-Reviewed Publications** in Q1 journals ([JMSE](https://doi.org/10.3390/jmse12071061)))  
+- **+5 National/International Conference Presentations** - SENALMAR, Our Planet Our Future, etc.  
 
 ---
 
 ### 📚 **Recent Publications**  
 1. **Gutiérrez-Cárdenas, GS.** et al. (2024)  
    *ENSO diversity effects on upwelling intensity and biological response*  
-   [![DOI](https://img.shields.io/badge/DOI-10.3390%2Fjmse12071061-blue)](https://doi.org/10.3390/jmse12071061)  
-
-2. **Gutiérrez-Cárdenas, GS.** et al. (2024)  
-   *Temporal trends of extreme rainfall in NW Mexico*  
-   *Target Journal: Journal of Climate*  
-
-3. **Gutiérrez-Cárdenas, GS.** et al. (2023)  
-   *40 years of marine heatwaves in California Current System*  
-   *Under Review: Climate Dynamics*  
-
+   [![DOI](https://img.shields.io/badge/DOI-10.3390%2Fjmse12071061-blue)](https://doi.org/10.3390/jmse12071061)
+   
 ---
 
 ### 💻 **Projects**  
 #### [**Upwelling Center Detection Algorithm**](https://github.com/yourrepo)  
 `Python` `Satellite Data` `OpenCV`  
 - Developed novel SST front detection method for coastal monitoring  
-
-#### [**ENSO Teleconnection Analysis**](https://github.com/yourrepo)  
-`Python` `Xarray` `Climate Indices`  
-- Quantified non-linear relationships between ENSO and Colombian precipitation  
 
 ---
 
@@ -68,4 +56,3 @@ Passionate oceanographer specializing in **ocean-atmosphere interactions** and *
 - 🎓 **Mentorship**: Open to co-supervising student projects in climate data analysis  
 
 
-- 
