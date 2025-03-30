@@ -44,7 +44,7 @@ Passionate oceanographer specializing in **ocean-atmosphere interactions** and *
 ---
 
 ### 💻 **Projects**  
-#### [**Upwelling Center Detection Algorithm**](https://github.com/yourrepo)  
+#### [**SST Front Detection Algorithm**](https://github.com/Gabo2000s/GoMoLi)  
 `Python` `Satellite Data` `OpenCV`  
 - Developed novel SST front detection method for coastal monitoring  
 
