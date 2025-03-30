@@ -2,7 +2,7 @@
 **Oceanographer | Climate Data Scientist | Python Developer**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3915--7684-blue)](https://orcid.org/0000-0002-3915-7684) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-santiago-gutiérrez-cárdenas) 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Read-white?logo=google-scholar)](https://scholar.google.com/citations?user=YOUR_ID)
 
 ---
