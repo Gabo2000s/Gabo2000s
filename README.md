@@ -1,5 +1,5 @@
 # 🌊 Gabriel Santiago Gutiérrez Cárdenas, MSc.  
-**Oceanographer | Climate Data Scientist | Python Developer**
+**Climate Data Scientist | Computational Oceanographer | Researcher | Dive Master | Science Education**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3915--7684-blue)](https://orcid.org/0000-0002-3915-7684) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-santiago-gutiérrez-cárdenas) 
