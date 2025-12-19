@@ -23,7 +23,7 @@ Passionate oceanographer specializing in **ocean-atmosphere interactions** and *
 |----------------------|-----------------------------|--------------------------------|
 | Python 🐍           | MATLAB | NumPy/Pandas     | Satellite Data Analysis 🛰️  |
 | R 📊                | TensorFlow/Keras 🤖         | Climate Statistics 📉         |
-| SQL 🗃️             | Git/GitHub 🐙               | Ecological Modeling 🌿        |
+| SQL 🗃️             | Git/GitHub 🐙               | Physical Modeling 🌿        |
 | Markdown 📝         | MATLAB Ocean Toolbox 🌐     | Scientific Visualization 📊   |
 
 ---
